@@ -1,0 +1,13 @@
+.header,
+.subheader {
+    color: blue;
+    font-family: Georgia;
+    font-size: larger;
+    text-align: center;
+}
+
+p {
+    color: cornflowerblue;
+    font-family: Georgia;
+    
+}
